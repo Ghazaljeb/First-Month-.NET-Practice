@@ -1,0 +1,14 @@
+E:\FirstMonthProject\bin\Debug\net10.0\FirstMonthProject.exe
+E:\FirstMonthProject\bin\Debug\net10.0\FirstMonthProject.deps.json
+E:\FirstMonthProject\bin\Debug\net10.0\FirstMonthProject.runtimeconfig.json
+E:\FirstMonthProject\bin\Debug\net10.0\FirstMonthProject.dll
+E:\FirstMonthProject\bin\Debug\net10.0\FirstMonthProject.pdb
+E:\FirstMonthProject\obj\Debug\net10.0\FirstMonthProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\FirstMonthProject\obj\Debug\net10.0\FirstMonthProject.AssemblyInfoInputs.cache
+E:\FirstMonthProject\obj\Debug\net10.0\FirstMonthProject.AssemblyInfo.cs
+E:\FirstMonthProject\obj\Debug\net10.0\FirstMonthProject.csproj.CoreCompileInputs.cache
+E:\FirstMonthProject\obj\Debug\net10.0\FirstMonthProject.dll
+E:\FirstMonthProject\obj\Debug\net10.0\refint\FirstMonthProject.dll
+E:\FirstMonthProject\obj\Debug\net10.0\FirstMonthProject.pdb
+E:\FirstMonthProject\obj\Debug\net10.0\FirstMonthProject.genruntimeconfig.cache
+E:\FirstMonthProject\obj\Debug\net10.0\ref\FirstMonthProject.dll
